@@ -1,5 +1,5 @@
 ### <div align='center'>wooy0ng</div>
-#### <div align='center'>🧾 (junior)  Information Security & AI/ML & frontend</div>
+#### <div align='center'>🧾 (junior)  Information Security & AI/ML</div>
 <div align='center'><a href="https://blog.naver.com/yygg9800" target="_blank"><img src="https://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a></div>
   
 
