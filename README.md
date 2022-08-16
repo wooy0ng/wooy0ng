@@ -19,8 +19,7 @@
 
 
   
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yygg9800)](https://solved.ac/yygg9800/)
+<img align='center' src='http://mazassumnida.wtf/api/v2/generate_badge?boj=yygg9800'>
 
 
 
