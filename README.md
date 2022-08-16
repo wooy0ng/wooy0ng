@@ -15,6 +15,7 @@
 <br>
 <div align='center'><img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>&nbsp</p>
 </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yygg9800)](https://solved.ac/yygg9800)
 
 
 <!--
