@@ -1,4 +1,4 @@
-### <div align='center'>wooy0ng</div>
+### <div align='center'>@wooy0ng</div>
 #### <div align='center'>(student)  Information Security & Data Engineering</div>
 <div align='center'><a href="https://blog.naver.com/yygg9800" target="_blank"><img src="https://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a></div>
   
@@ -17,9 +17,9 @@
 </div>
 <br>
 
-
+<!--
 <div align='center'><img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=yygg9800'></div>
-
+-->
 
 
 
