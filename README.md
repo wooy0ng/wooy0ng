@@ -16,7 +16,14 @@
 - **MLOps** 
 - **Cloud Computing System** 
 
+<br>
 
+### Experience
+
+- `2022.09 ~ 2023.02` [NAVER Connect Foundation](https://boostcamp.connect.or.kr/) - Boostcamp AI Tech 4th (NLP)
+- `2021.11 ~ 2022.05` [Programmers](https://programmers.co.kr/) - AI Devcourse 3th
+- `2020.06 ~ 2020.12` [Korea Press Foundation](https://www.kpf.or.kr/front/user/main.do) - Youtube video supporters
+- `2019.02 ~ 2020.05` [ROK Defense Communication Command]() - Computer Emergency Response Team
 
 <!--
 **wooy0ng/wooy0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
