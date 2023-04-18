@@ -16,7 +16,6 @@
 - **MLOps** 
 - **Cloud Computing System** 
 
-<br>
 
 ### Experience
 
