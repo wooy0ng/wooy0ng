@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng&show_icons=true&bg_color=00000000">
 
 ##### 제 Github에 방문해주셔서 감사합니다. 저는 정보보안과 인공지능에 관심이 많은 학생입니다.
 
