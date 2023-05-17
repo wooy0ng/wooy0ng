@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng&show_icons=true&bg_color=00000000">
 
 <b> 제 Github에 방문해주셔서 감사합니다. </b> <br>
-<b> 저는 인공지능과 정보보안에 관심이 많은 학생입니다. </b>
+<b> 저는 인공지능에 관심이 많은 학생입니다. </b>
 
 
 <!--
@@ -14,10 +14,10 @@
 
 ### My Interest
 
-- **Information Security** 
 - **Natural Language Processing**
 - **MLOps** 
 - **Cloud Computing System** 
+- **Information Security** 
 
 
 ### Experience
