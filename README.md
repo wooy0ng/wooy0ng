@@ -16,7 +16,7 @@
 - **Natural Language Processing**
 - **MLOps** 
 - **Cloud Computing System** 
-- **Information Security** 
+- **Cyber Security** 
 
 
 ### Experience
