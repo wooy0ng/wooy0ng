@@ -14,9 +14,9 @@
 ### My Interest
 
 - **Natural Language Processing**
-- **MLOps** 
+- **Backend / MLOps** 
 - **Cloud Computing System** 
-- **Cyber Security** 
+
 
 
 ### Experience
