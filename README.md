@@ -14,7 +14,7 @@
 ### My Interest
 
 - **Natural Language Processing**
-- **Backend / MLOps** 
+- **Python Backend / MLOps** 
 - **Cloud Computing System** 
 
 
