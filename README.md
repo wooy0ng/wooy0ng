@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng&show_icons=true&bg_color=00000000">
 
-<b> 제 Github에 방문해주셔서 감사합니다. </b>
+<b> Thank you for visiting my Github! 😄 </b>
 
 
 <!--
@@ -13,18 +13,18 @@
 
 ### My Interest
 
-- **Natural Language Processing**
+- **Network Engineering**
 - **Python Backend / MLOps** 
-- **Cloud Computing System** 
+- **Natural Language Processing**
 
-
+<br>
 
 ### Experience
 
-- `2022.09 ~ 2023.02` [NAVER Connect Foundation](https://boostcamp.connect.or.kr/) - Boostcamp AI Tech 4th (NLP)
-- `2021.11 ~ 2022.05` [Programmers](https://programmers.co.kr/) - AI Devcourse 3th
-- `2020.06 ~ 2020.12` [Korea Press Foundation](https://www.kpf.or.kr/front/user/main.do) - Youtube video supporters 5th
-- `2019.02 ~ 2020.05` [ROK Defense Communication Command](https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp) - Computer Emergency Response Team
+- `2022.09 ~ 2023.02` [NAVER Connect Foundation](https://boostcamp.connect.or.kr/) - Boostcamp AI Tech (NLP)
+- `2021.11 ~ 2022.05` [Programmers](https://programmers.co.kr/) - AI Devcourse
+- `2020.06 ~ 2020.12` [Korea Press Foundation](https://www.kpf.or.kr/front/user/main.do) - news supporters
+- `2019.02 ~ 2020.05` [ROK Defense Communication Command](https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp) - CERT
 
 <!--
 **wooy0ng/wooy0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
