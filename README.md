@@ -11,13 +11,16 @@
 
 <br>
 
+<!--
 ### My Interest
 
 - **Network Engineering**
 - **Python Backend / MLOps** 
 - **Natural Language Processing**
 
-<br>
+-->
+
+<br><br>
 
 ### Experience
 
