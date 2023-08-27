@@ -24,9 +24,10 @@
 
 ### Experience
 
-- `2022.09 ~ 2023.02` [NAVER Connect Foundation](https://boostcamp.connect.or.kr/) - Boostcamp AI Tech (NLP)
-- `2021.11 ~ 2022.05` [Programmers](https://programmers.co.kr/) - AI Devcourse
-- `2020.06 ~ 2020.12` [Korea Press Foundation](https://www.kpf.or.kr/front/user/main.do) - news supporters
+- `2023.07 ~ 2023.12` [PIPC/KISA](https://www.pipc.go.kr/np/) - 개인정보 불법유통 대응 대학생 모니터링단
+- `2022.09 ~ 2023.02` [NAVER Connect Foundation](https://boostcamp.connect.or.kr/) - 부스트캠프 AI Tech 
+- `2021.11 ~ 2022.05` [Programmers](https://programmers.co.kr/) - 인공지능 데브코스
+- `2020.06 ~ 2020.12` [Korea Press Foundation](https://www.kpf.or.kr/front/user/main.do) - 뉴스저작권 홍보 서포터즈
 - `2019.02 ~ 2020.05` [ROK Defense Communication Command](https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp) - CERT
 
 <!--
