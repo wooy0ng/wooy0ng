@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng&show_icons=true&bg_color=00000000">
 
-<b> Thank you for visiting my Github! 😄 </b>
+<b> I'm interested in automation & backend engineering using Python. </b>
 
 
 <!--
