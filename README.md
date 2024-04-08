@@ -1,6 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng&show_icons=true&bg_color=00000000">
 
-<b> I'm interested in automation & backend engineering using Python. </b>
+<b> I'm interested in   
+backend engineering, automation using Python. </b>
 
 
 <!--
