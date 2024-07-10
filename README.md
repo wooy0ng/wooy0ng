@@ -25,7 +25,7 @@ backend & automation engineering. </b>
 
 ### Extracurricular Activities
 
-- `2024.02 ~ 2024.06` [가짜연구소]() - CPython 파헤치기 스터디
+- `2024.03 ~ 2024.06` [가짜연구소]() - CPython 파헤치기 스터디
 - `2023.07 ~ 2023.12` [KISA](https://www.pipc.go.kr/np/) - 개인정보 불법유통 대응 대학생 모니터링단
 - `2022.09 ~ 2023.02` [NAVER Connect Foundation](https://boostcamp.connect.or.kr/) - 부스트캠프 AI Tech 4기
 - `2021.11 ~ 2022.05` [Programmers](https://programmers.co.kr/) - 인공지능 데브코스 3기
