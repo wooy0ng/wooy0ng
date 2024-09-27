@@ -1,7 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng&show_icons=true&bg_color=00000000">
 
-<b> I'm interested in  
-backend & automation engineering. </b>
+
 
 
 <!--
@@ -21,7 +20,7 @@ backend & automation engineering. </b>
 
 -->
 
-<br><br>
+<br><br><br><br>
 
 ### Extracurricular Activities
 
