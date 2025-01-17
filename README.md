@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwooy0ng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/wooy0ng/)](https://blog.naver.com/wooy0ng)   
+<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/wooy0ng/)](https://blog.naver.com/wooy0ng)   -->
 
 <br>
 
@@ -24,7 +24,7 @@
 
 ### Extracurricular Activities
 
-- `2024.03 ~ 2024.06` [PersudoLab](https://pseudo-lab.github.io/CPython-Guide/intro.html) - CPython 파헤치기 스터디
+- `2024.03 ~ 2024.06` [PseudoLab](https://pseudo-lab.github.io/CPython-Guide/intro.html) - CPython 파헤치기 스터디
 - `2023.07 ~ 2023.12` [KISA](https://www.pipc.go.kr/np/) - 개인정보 불법유통 대응 대학생 모니터링단
 - `2022.09 ~ 2023.02` [NAVER Connect Foundation](https://boostcamp.connect.or.kr/) - 부스트캠프 AI Tech 4기
 - `2021.11 ~ 2022.05` [Programmers](https://programmers.co.kr/) - 인공지능 데브코스 3기
