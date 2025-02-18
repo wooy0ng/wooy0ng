@@ -22,6 +22,29 @@
 
 <br><br><br><br>
 
+### Certificate
+- 정보처리기사 (한국산업인력공단)
+- 빅데이터분석기사 (한국데이터산업진흥원)
+- 정보보안산업기사 (한국인터넷진흥원)
+- 네트워크관리사 2급 (한국전파통신진흥원)
+- 컴퓨터활용능력 1급 (대한상공회의소)
+
+
+<br><br>
+
+### Extracurricular Activities
+
+- `2024.03 ~ 2024.06` [PseudoLab](https://pseudo-lab.github.io/CPython-Guide/intro.html) - CPython 파헤치기 스터디
+- `2023.07 ~ 2023.12` [KISA](https://www.pipc.go.kr/np/) - 개인정보 불법유통 대응 대학생 모니터링단
+- `2022.09 ~ 2023.02` [NAVER Connect Foundation](https://boostcamp.connect.or.kr/) - 부스트캠프 AI Tech 4기
+- `2021.11 ~ 2022.05` [Programmers](https://programmers.co.kr/) - 인공지능 데브코스 3기
+- `2020.06 ~ 2020.12` [Korea Press Foundation](https://www.kpf.or.kr/front/user/main.do) - 뉴스저작권 홍보 서포터즈 5기
+- `2019.02 ~ 2020.05` [ROK Defense Communication Command](https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp) - CERT
+
+
+<br><br>
+
+
 ### Tech Stack
 
 #### Programming Languages
@@ -47,16 +70,6 @@
 <img src="https://img.shields.io/badge/Jmeter-990000?style=flat-square&logo=apache&logoColor=white" alt="Jemeter"/> &nbsp;
 
 
-<br><br>
-
-### Extracurricular Activities
-
-- `2024.03 ~ 2024.06` [PseudoLab](https://pseudo-lab.github.io/CPython-Guide/intro.html) - CPython 파헤치기 스터디
-- `2023.07 ~ 2023.12` [KISA](https://www.pipc.go.kr/np/) - 개인정보 불법유통 대응 대학생 모니터링단
-- `2022.09 ~ 2023.02` [NAVER Connect Foundation](https://boostcamp.connect.or.kr/) - 부스트캠프 AI Tech 4기
-- `2021.11 ~ 2022.05` [Programmers](https://programmers.co.kr/) - 인공지능 데브코스 3기
-- `2020.06 ~ 2020.12` [Korea Press Foundation](https://www.kpf.or.kr/front/user/main.do) - 뉴스저작권 홍보 서포터즈 5기
-- `2019.02 ~ 2020.05` [ROK Defense Communication Command](https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp) - CERT
 
 <!--
 **wooy0ng/wooy0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
