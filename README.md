@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng&show_icons=true&bg_color=00000000">
+<!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng&show_icons=true&bg_color=00000000"> -->
 
 
 
@@ -9,28 +9,6 @@
 
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/wooy0ng/)](https://blog.naver.com/wooy0ng)   -->
 
-<br><br><br>
-
-<!--
-### My Interest
-
-- **Network Engineering**
-- **Python Backend / MLOps** 
-- **Natural Language Processing**
-
--->
-
-<br><br><br><br>
-
-### Certificate
-- 정보처리기사 (한국산업인력공단)
-- 빅데이터분석기사 (한국데이터산업진흥원)
-- 정보보안산업기사 (한국인터넷진흥원)
-- 네트워크관리사 2급 (한국전파통신진흥원)
-- 컴퓨터활용능력 1급 (대한상공회의소)
-
-
-<br><br>
 
 ### Extracurricular Activities
 
@@ -41,17 +19,30 @@
 - `2020.06 ~ 2020.12` [Korea Press Foundation](https://www.kpf.or.kr/front/user/main.do) - 뉴스저작권 홍보 서포터즈 5기
 - `2019.02 ~ 2020.05` [ROK Defense Communication Command](https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp) - CERT
 
+<br>
 
-<br><br>
+### Certificate
+- 정보처리기사 (한국산업인력공단)
+- 빅데이터분석기사 (한국데이터산업진흥원)
+- 정보보안산업기사 (한국인터넷진흥원)
+- 네트워크관리사 2급 (한국전파통신진흥원)
+- 컴퓨터활용능력 1급 (대한상공회의소)
+
+
+
+
+
+<br>
 
 
 ### Tech Stack
 
 #### Programming Languages
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/> &nbsp;
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a" alt="Shell"/> &nbsp;
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" alt="C"/> &nbsp;
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" alt="Javascript"/> &nbsp;
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a" alt="Shell"/> &nbsp;
+
 
 #### Frameworks & Libraries
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django"/> &nbsp;
