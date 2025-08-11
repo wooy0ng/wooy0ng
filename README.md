@@ -10,7 +10,7 @@
 <!--<img src="https://media.giphy.com/media/117IVXpuqIITx6/giphy.gif" width="300" height="350" alt="Hoppip Cat GIF"/>-->
 
 
-### 생각날 때 마다 휘갈기는 메모장들
+### 생각날 때 마다 휘갈기는 메모장
 - [운영체제 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=144&parentCategoryNo=144)
 - [컴퓨터 언어 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=23&parentCategoryNo=23)
 - [데이터베이스 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=152&parentCategoryNo=152)
@@ -21,8 +21,22 @@
 
 <br>
 
+### 자격증 컬렉션
+- 정보처리기사 (한국산업인력공단)
+- 빅데이터분석기사 (한국데이터산업진흥원)
+- 정보보안산업기사 (한국인터넷진흥원)
+- 네트워크관리사 2급 (한국정보통신자격협회)
+- 컴퓨터활용능력 1급 (대한상공회의소)
 
+<br>
 
+### 대외 활동들
+- `2024.03 ~ 2024.06` 가짜연구소 8기 러너
+- `2023.07 ~ 2023.12` 개인정보보호위원회 개인정보 불법유통 대응 모니터링단
+- `2022.09 ~ 2023.02` 네이버 부스트캠프 AI Tech
+- `2021.11 ~ 2022.05` 프로그래머스 인공지능 데브코스
+- `2020.06 ~ 2020.12` 한국언론진흥재단 뉴스저작권 서포터즈
+- `2018.10 ~ 2020.05` 육군 정보보호병
 
 <!--
 ### Tech Stack
