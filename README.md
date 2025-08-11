@@ -7,36 +7,22 @@
 
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/wooy0ng/)](https://blog.naver.com/wooy0ng)   -->
 
-<img src="https://media.giphy.com/media/117IVXpuqIITx6/giphy.gif" width="400" height="300" alt="Hoppip Cat GIF"/>
+<!--<img src="https://media.giphy.com/media/117IVXpuqIITx6/giphy.gif" width="300" height="350" alt="Hoppip Cat GIF"/>-->
 
-<br>
 
-### Certificate
-- 한국산업인력공단 - 정보처리기사  
-- 한국데이터산업진흥원 - 빅데이터분석기사  
-- 한국인터넷진흥원 - 정보보안산업기사  
-- 한국정보통신자격협회 - 네트워크관리사 2급  
-- 대한상공회의소 - 컴퓨터활용능력 1급 
-
-<br>
-
-### Extracurricular Activities
-
-- `2024.03 ~ 2024.06` PseudoLab - CPython 파헤치기
-- `2023.07 ~ 2023.12` KISA - 개인정보 불법유통 대응 대학생 모니터링단
-- `2022.09 ~ 2023.02` NAVER Connect Foundation - 부스트캠프 AI Tech
-- `2021.11 ~ 2022.05` Programmers - 인공지능 데브코스 3기
-- `2020.06 ~ 2020.12` Korea Press Foundation - 뉴스저작권 홍보 서포터즈
-- `2019.02 ~ 2020.05` ROK Defense Communication Command - CERT
+### 생각날 때 마다 휘갈기는 메모장들
+- [운영체제 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=144&parentCategoryNo=144)
+- [컴퓨터 언어 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=23&parentCategoryNo=23)
+- [데이터베이스 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=152&parentCategoryNo=152)
+- [인프라 운영](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=93&parentCategoryNo=93)
+- [데이터 과학 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=71&parentCategoryNo=71)
+- [테스트 도구 모음](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=130&parentCategoryNo=130)
+- [클라우드](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=133&parentCategoryNo=133)
 
 <br>
 
 
 
-
-
-
-<br>
 
 <!--
 ### Tech Stack
