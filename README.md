@@ -1,15 +1,3 @@
-<!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=wooy0ng&show_icons=true&bg_color=00000000"> -->
-
-
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwooy0ng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
-
-<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/wooy0ng/)](https://blog.naver.com/wooy0ng)   -->
-
-<!--<img src="https://media.giphy.com/media/117IVXpuqIITx6/giphy.gif" width="300" height="350" alt="Hoppip Cat GIF"/>-->
-
-
 ### 생각날 때 마다 휘갈기는 메모장
 - [운영체제 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=144&parentCategoryNo=144)
 - [컴퓨터 언어 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=23&parentCategoryNo=23)
@@ -27,6 +15,12 @@
 - 정보보안산업기사 (한국인터넷진흥원)
 - 네트워크관리사 2급 (한국정보통신자격협회)
 - 컴퓨터활용능력 1급 (대한상공회의소)
+- ISTQB CTFL (International Software Testing Qualifications Board)
+
+<br>
+
+### 외국어
+- HSK 3級 (汉语水平考试)
 
 <br>
 
@@ -37,6 +31,7 @@
 - `2021.11 ~ 2022.05` 프로그래머스 인공지능 데브코스
 - `2020.06 ~ 2020.12` 한국언론진흥재단 뉴스저작권 서포터즈
 - `2018.10 ~ 2020.05` 육군 정보보호병
+
 
 <!--
 ### Tech Stack
