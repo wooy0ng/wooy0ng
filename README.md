@@ -1,15 +1,21 @@
-### 생각날 때 마다 휘갈기는 메모장
-- [운영체제 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=144&parentCategoryNo=144)
-- [컴퓨터 언어 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=23&parentCategoryNo=23)
-- [데이터베이스 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=152&parentCategoryNo=152)
-- [인프라 운영](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=93&parentCategoryNo=93)
-- [데이터 과학 이야기](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=71&parentCategoryNo=71)
-- [테스트 도구 모음](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=130&parentCategoryNo=130)
+
+
+### 메모장
+- [운영체제](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=144&parentCategoryNo=144)
+- [컴퓨터 언어](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=23&parentCategoryNo=23)
+- [정보통신](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=36&parentCategoryNo=36)
+- [정보보안](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=161&parentCategoryNo=161)
+- [데이터베이스](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=152&parentCategoryNo=152)
+- [인프라](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=93&parentCategoryNo=93)
+- [데이터 과학](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=71&parentCategoryNo=71)
+- [테스트 도구](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=130&parentCategoryNo=130)
 - [클라우드](https://blog.naver.com/PostList.naver?blogId=wooy0ng&from=postList&categoryNo=133&parentCategoryNo=133)
+
+
 
 <br>
 
-### 자격증 컬렉션
+### 자격증
 - 정보처리기사 (한국산업인력공단)
 - 빅데이터분석기사 (한국데이터산업진흥원)
 - 정보보안산업기사 (한국인터넷진흥원)
@@ -24,7 +30,7 @@
 
 <br>
 
-### 대외 활동들
+### 대외 활동
 - `2024.03 ~ 2024.06` 가짜연구소 8기 러너
 - `2023.07 ~ 2023.12` 개인정보보호위원회 개인정보 불법유통 대응 모니터링단
 - `2022.09 ~ 2023.02` 네이버 부스트캠프 AI Tech
